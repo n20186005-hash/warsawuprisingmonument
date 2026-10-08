@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Pomnik Powstania Warszawskiego - przewodnik, historia i mapa",
-    "description": "Zaplanuj wizytę przy Pomniku Powstania Warszawskiego na placu Krasińskich w Warszawie. Mapa, historia i praktyczne wskazówki - wstęp wolny."
+    "title": "Pomnik Powstania Warszawskiego – Historia i Zwiedzanie",
+    "description": "Poznaj Pomnik Powstania Warszawskiego na placu Krasińskich w Warszawie. Sprawdź historię, symbolikę rzeźb, dojazd i praktyczne informacje dla odwiedzających."
   },
   "header": {
     "home": "Strona główna",
@@ -16,284 +16,285 @@
   "hero": {
     "title": "Pomnik Powstania Warszawskiego (Warszawa)",
     "subtitle": "Pomnik Powstania Warszawskiego 1944 · plac Krasińskich · Wstęp wolny 24/7",
-    "rating": "4.8(5,532)",
-    "reviewCount": "5,532 opinie",
+    "rating": "4.8",
+    "reviewCount": "5 579 opinii",
     "hours": "Otwarte 24/7",
     "openMaps": "Zobacz lokalizację",
     "imgAlt": "Pomnik Powstania Warszawskiego - widok z placu Krasińskich w Warszawie"
   },
   "intro": {
-    "title": "Discover the Warsaw Uprising Monument",
+    "title": "Poznaj Pomnik Powstania Warszawskiego",
     "lead": "Pomnik Powstania Warszawskiego (ang. Warsaw Uprising Monument) stoi przy placu Krasińskich w Warszawie. Odsłonięty 1 sierpnia 1989 roku, upamiętnia bohaterów Powstania Warszawskiego z 1944 roku — największego zbrojnego zrywu europejskich ruchów oporu podczas II wojny światowej. Ten wolno dostępny pomnik znajduje się przy południowej krawędzi placu Krasińskich, przed budynkiem Sądu Najwyższego.",
     "learnMoreLabel": "Dowiedz się więcej:",
     "linkMuseum": "Muzeum Powstania Warszawskiego",
-    "description": "Standing before the Warsaw Uprising Monument, you will immediately feel enveloped by a solemn and profound atmosphere. The entire sculptural group, rendered in highly impactful realistic techniques, recreates the heroic moments of the 1944 Warsaw Uprising—the shattered structures, the struggling figures, all silently narrate the suffering and resistance this city once endured.\n\nThe square is quiet and solemn, free from commercial bustle. Visitors walk softly and slowly, standing in reverent contemplation. The two sculptural groups complement each other—one side depicting courageous fighters, the other showing civilians struggling to survive in the ruins. The intricate carving details fully present both the cruelty of war and the resilience of humanity.\n\nSurrounding modern buildings rise alongside this heavy historical landmark, creating a striking contrast that makes one appreciate the preciousness of peace even more. You can quietly circle the monument, absorbing the emotions conveyed by the sculptures, and reflect in the expansive memorial square, remembering this chapter of the city's past that must never be forgotten.\n\nAs twilight falls, cool light and shadows envelop the entire square, making the monument's silhouette increasingly dignified. This is not merely a sculptural landmark—it is Warsaw's spiritual pillar, witnessing destruction, resistance, and rebirth, allowing every visitor to understand the history and faith of this resilient city.",
+    "description": "Stojąc przed Pomnikiem Powstania Warszawskiego, od razu otacza cię powaga i głębia. Cała grupa rzeźbiarska, wykonana w niezwykle sugestywny, realistyczny sposób, przywraca bohaterskie chwile powstania z 1944 roku — rozbite struktury, walczące postacie w milczeniu opowiadają o cierpieniu i oporze, jakiego doświadczyło to miasto.\n\nPlac jest cichy i pełen zadumy, wolny od komercyjnego zgiełku. Zwiedzający poruszają się powoli i cicho, stojąc w pełnym szacunku skupieniu. Dwie grupy rzeźbiarskie uzupełniają się — z jednej strony odważni żołnierze, z drugiej cywile walczący o przetrwanie w ruinach. Precyzyjne detale rzeźb ukazują zarówno okrucieństwo wojny, jak i niezłomność człowieka.\n\nWokół wznoszą się nowoczesne budynki, kontrastujące z tym ciężkim historycznym pomnikiem — co pozwala jeszcze mocniej docenić wartość pokoju. Możesz powoli obejść pomnik, wchłaniając emocje płynące z rzeźb, i zadumać się na rozległym placu pamięci, pamiętając ten rozdział dziejów miasta, którego nigdy nie wolno zapomnieć.\n\nGdy zapada zmrok, chłodne światło i cienie otulają cały plac, a sylwetka pomnika staje się coraz bardziej dostojna. To nie tylko rzeźbiarski zabytek — to duchowy filar Warszawy, świadek zniszczenia, oporu i odrodzenia, pozwalający każdemu zrozumieć historię i wiarę tego niezłomnego miasta.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Wskazówki dla zwiedzających",
       "items": [
-        "Recommended to visit during early morning or late afternoon for softer lighting and fewer crowds",
-        "The outdoor memorial square is free and open 24/7 year-round",
-        "Maintain solemn silence and refrain from loud behavior out of respect for the fallen",
-        "Wear comfortable walking shoes as the square has extensive paved stone surfaces"
+        "Najlepiej odwiedzać wczesnym rankiem lub późnym popołudniem — miększe światło i mniej tłumu",
+        "Plenerowy plac pamięci jest bezpłatny i otwarty 24/7 przez cały rok",
+        "Zachowaj powagę i ciszę z szacunku dla poległych",
+        "Noś wygodne buty do chodzenia — plac ma rozległe brukowane powierzchnie"
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Najważniejsze informacje",
       "items": [
-        "Most significant WWII memorial landmark in Poland",
-        "Core spiritual symbol commemorating the 1944 Warsaw Uprising",
-        "European classic WWII historical memorial landmark",
-        "Important site for patriotic education and historical remembrance"
+        "Najważniejszy pomnik II wojny światowej w Polsce",
+        "Główny symbol upamiętniający Powstanie Warszawskie 1944",
+        "Europejski klasyk pomników historycznych z czasów II wojny światowej",
+        "Ważne miejsce edukacji patriotycznej i pamięci historycznej"
       ]
     }
   },
   "knowledge": {
-    "title": "The Charm of Warsaw Uprising Monument",
+    "title": "Pomnik Powstania Warszawskiego — co warto wiedzieć",
     "sections": [
       {
         "id": "history",
-        "title": "Historical Significance",
-        "content": "In 1944, the people of Warsaw launched a massive armed uprising against foreign occupation. This heroic struggle lasted sixty-three days before ending in tragedy—the entire city suffered devastating destruction, with countless civilians and fighters paying the ultimate price. To commemorate this heroic history and honor those who sacrificed their lives, Warsaw planned and constructed the Warsaw Uprising Monument after the war. Located in the heart of the city's memorial square, it became a symbol of the city's spirit. Designed by renowned artists based on authentic historical imagery, the sculptures fully recreate wartime scenes. Over the decades, the monument has endured city renovations while remaining intact, continuously serving its commemorative, educational, and cultural purposes—reminding people to remember the pain of war and cherish today's peace. It has become an essential destination for foreign tourists seeking to understand Poland's WWII history."
+        "title": "Znaczenie historyczne",
+        "content": "W 1944 roku mieszkańcy Warszawy podjęli wielki zbrojny zryw przeciwko okupacji. Ten bohaterski bój trwał sześćdziesiąt trzy dni, nim zakończył się tragedią — miasto legło w gruzach, a tysiące cywilów i powstańców zapłaciło najwyższą cenę. Aby upamiętnić to bohaterstwo i uczcić poległych, po wojnie władze Warszawy zaplanowały i wzniosły Pomnik Powstania Warszawskiego. Usytuowany w sercu placu pamięci, stał się symbolem ducha miasta. Zaprojektowany przez uznanych artystów na podstawie autentycznych archiwaliów, oddaje realistycznie sceny wojenne. Przez dziesięciolecia pomnik przetrwał przebudowy miasta, stale służąc pamięci, edukacji i kulturze — przypominając o bólu wojny i wartości pokoju. To obowiązkowy punkt dla turystów chcących zrozumieć historię Polski w czasie II wojny światowej."
       },
       {
         "id": "architecture",
-        "title": "Architectural Features",
-        "content": "The monument consists of two groups of giant realistic sculptures, divided into two main themes: heroic combat and survival in ruins. The figures have bold, heavy lines with powerful details. The entire ensemble stands prominently in the center of the open memorial square, accompanied by hard-textured paving and minimalist landscaping—creating a solemn and dignified atmosphere. The sculptural group faithfully recreates wartime resistance scenes with powerful visual impact. The modern realistic memorial sculpture style features rough, heavy stone textures with heroic, realistic forms that abandon ornate decoration. Through minimalist, solemn design techniques, the cruelty of war is restored while maintaining artistic expressiveness and historical gravity."
+        "title": "Cechy architektoniczne",
+        "content": "Pomnik składa się z dwóch grup wielkich, realistycznych rzeźb podzielonych na dwa wątki: bohaterską walkę i przetrwanie w ruinach. Postacie mają mocne, ciężkie rysy i bogate detale. Całość dominuje w centrum otwartego placu pamięci, otoczona twardym brukiem i minimalistyczną zielenią, co buduje powagę i dostojność. Grupa rzeźbiarska z potężnym wyrazem oddaje sceny oporu. Współczesny, realistyczny styl pomnikowy łączy surową, ciężką fakturę kamienia z heroiczną formą, rezygnując z ozdobników. Poprzez oszczędne, dostojne środki przywraca grozę wojny, zachowując wyraz artystyczny i historyczną wagę."
       },
       {
         "id": "culture",
-        "title": "Cultural Significance",
-        "content": "The monument carries the collective historical memory of the Polish nation, honoring the fighters and civilians who sacrificed themselves in the uprising. It serves as an important venue for patriotic education, historical commemoration, and solemn mourning. Every year on the anniversary of the uprising, national commemorative ceremonies are held here, profoundly interpreting the city's spirit of resistance, rebirth, and remembering history. The monument bears witness to the destruction and reconstruction of Warsaw, making it a spiritual landmark that every visitor should experience to understand the resilience and faith of this great city."
+        "title": "Znaczenie kulturowe",
+        "content": "Pomnik niesie zbiorową pamięć narodu polskiego, czcząc powstańców i cywilów, którzy oddali życie. Jest ważnym miejscem edukacji patriotycznej, upamiętniania historii i zadumy. Co roku w rocznicę powstania odbywają się tu państwowe uroczystości, głęboko interpretujące ducha oporu, odrodzenia i pamiętania. Pomnik świadczy o zniszczeniu i odbudowie Warszawy, stając się duchowym punktem, który każdy powinien przeżyć, by zrozumieć siłę i wiarę tego miasta."
       },
       {
         "id": "experience",
-        "title": "Core Experience",
-        "content": "Walking into the memorial square, the solemn atmosphere immediately envelops you. The two sculptural groups—depicting fighting soldiers and struggling civilians respectively—stand in powerful confrontation. Each figure's posture, expression, and the shattered structural elements create a scene of desperate resistance and resilience. Standing quietly before the monument, listening to the silent testimony of history, you can feel the weight of that tragic past. As evening falls and cool light spreads across the square, the monument's silhouette becomes increasingly solemn. Here, you come to understand Warsaw—not merely a European capital, but a city born from fire, rebuilt from ashes, and eternally resilient."
+        "title": "Co zobaczysz",
+        "content": "Wchodząc na plac pamięci, od razu otacza cię powaga. Dwie grupy rzeźbiarskie — jedna z walczącymi żołnierzami, druga z cywilami w ruinach — stoją w potężnym kontraście. Postawa i wyraz każdej postaci oraz połamane elementy budowli tworzą scenę rozpaczy i oporu. Stojąc cicho przed pomnikiem, wsłuchujesz się w nieme świadectwo historii i czujesz ciężar tamtej przeszłości. Gdy zapada zmrok i chłodne światło rozlewa się po placu, sylwetka pomnika staje się coraz bardziej dostojna. Tu zrozumiesz Warszawę — nie tylko stolicę Europy, ale miasto zrodzone z ognia, odbudowane z popiołów i niezłomne."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Informacje podstawowe",
+    "officialName": "Oficjalna nazwa",
     "officialNameValue": "Pomnik Powstania Warszawskiego",
-    "type": "Attraction Type",
-    "typeValue": "Historical Monument, WWII Memorial, Cultural Heritage Site",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Warsaw",
-    "googleRating": "Google Rating",
-    "address": "Address",
+    "type": "Rodzaj atrakcji",
+    "typeValue": "Pomnik historyczny, pomnik powstania, dziedzictwo kulturowe",
+    "country": "Kraj",
+    "countryValue": "Polska",
+    "city": "Miasto",
+    "cityValue": "Warszawa",
+    "googleRating": "Ocena Google",
+    "googleRatingValue": "4.8 / 5 (5 579 opinii)",
+    "address": "Adres",
     "addressValue": "plac Krasińskich, 00-263 Warszawa, Polska"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Memorial Square & Monument",
-    "outdoorTime": "Open 24/7 year-round, no restrictions",
-    "lighthouse": "Rocznica Powstania - 1 sierpnia",
-    "summer": "Coroczna uroczysto\u015b\u0107 pa\u0144stwowa przy pomniku",
-    "summerTime": "Udzia\u0142 bezp\u0142atny, otwarte dla publiczno\u015bci",
+    "title": "Godziny otwarcia",
+    "outdoor": "Plac pamięci i pomnik",
+    "outdoorTime": "Otwarty 24/7 przez cały rok, bez ograniczeń",
+    "lighthouse": "Rocznica powstania — 1 sierpnia",
+    "summer": "Coroczna uroczystość państwowa przy pomniku",
+    "summerTime": "Udział bezpłatny, otwarte dla publiczności",
     "winter": "Inne dni rocznicowe",
-    "winterTime": "Uroczysto\u015bci okoliczno\u015bciowe przez ca\u0142y rok; plac pozostaje otwarty 24/7",
-    "warning": "Special Notice",
-    "warningTime": "Ceremonies and events are held on commemorative days and special occasions. The atmosphere is solemn and dignified.",
-    "tip": "Recommended to visit during early morning or late afternoon for fewer crowds and better atmosphere"
+    "winterTime": "Wydarzenia okolicznościowe przez cały rok; plac pozostaje otwarty 24/7",
+    "warning": "Ważna informacja",
+    "warningTime": "Uroczystości i wydarzenia odbywają się w dni rocznicowe i przy specjalnych okazjach. Panuje powaga i dostojna atmosfera.",
+    "tip": "Najlepiej odwiedzać wczesnym rankiem lub późnym popołudniem — mniej tłumu i lepsza atmosfera"
   },
   "tickets": {
-    "title": "Ticket Prices",
-    "outdoor": "Outdoor Memorial Square",
-    "outdoorPrice": "Free admission, no entry fee",
-    "lighthouse": "Bezp\u0142atny pomnik i p\u0142atne muzeum",
+    "title": "Ceny biletów",
+    "outdoor": "Plenerowy plac pamięci",
+    "outdoorPrice": "Wstęp wolny, bez opłat",
+    "lighthouse": "Bezpłatny pomnik i płatne muzeum",
     "adults": "Pomnik Powstania Warszawskiego",
-    "adultsPrice": "Wst\u0119p wolny, 24/7",
-    "students": "Muzeum Powstania Warszawskiego - bilet normalny",
-    "studentsPrice": "35 z\u0142",
-    "children": "Muzeum - bilet ulgowy",
-    "childrenPrice": "30 z\u0142",
-    "card": "Warto wiedzie\u0107",
-    "cardPrice": "Muzeum (dzielnica Wola) to osobna p\u0142atna atrakcja; sam pomnik na placu Krasi\u0144skich jest zawsze bezp\u0142atny."
+    "adultsPrice": "Wstęp wolny, 24/7",
+    "students": "Muzeum Powstania Warszawskiego — bilet normalny",
+    "studentsPrice": "35 zł",
+    "children": "Muzeum — bilet ulgowy",
+    "childrenPrice": "30 zł",
+    "card": "Warto wiedzieć",
+    "cardPrice": "Muzeum (dzielnica Wola) to oddzielna, płatna atrakcja; sam pomnik na placu Krasińskich jest zawsze bezpłatny."
   },
   "transport": {
-    "title": "How to Get Here",
-    "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take bus 175 or S2/S3 urban trains to the city center (Warszawa Centralna), transfer to Metro Line M1 to Ratusz Arsenał station, and walk about 8 minutes to the monument. Ride-sharing from the airport can take you directly to the monument square.",
-    "selfDrive": "Self-Drive / Ride-Share",
-    "selfDriveDesc": "The most convenient option. Warsaw's city center has well-developed road networks. Major parking areas surround the square. Ride-sharing services operate throughout the city with direct drop-off points near the memorial.",
-    "bus": "From Warsaw Central Railway Station",
-    "busDesc": "From Warsaw Central Station (Warszawa Centralna), take tram 15, 18, or 35 to Muranów station, or take Metro Line M1 to Ratusz Arsenał station, then walk for about 5-8 minutes.",
-    "intercity": "From City Center / Old Town",
-    "intercityDesc": "From Warsaw Old Town Square, walk west for about 10 minutes; from the Palace of Culture and Science, take Metro Line M1 to Ratusz Arsenał station. Well-connected walking trails make it very accessible.",
-    "cycling": "Cycling",
-    "cyclingDesc": "Warsaw has well-developed cycling paths. Public bike-sharing stations are available throughout the city center. Cycling to the monument square offers flexibility and allows you to explore surrounding areas at your own pace.",
-    "tips": "Travel Tips",
-    "tipsDesc": "It is recommended to purchase a local transport day pass for unlimited metro, tram, and bus rides—ideal for visiting multiple attractions in succession. The city center has clear signage in multiple languages."
+    "title": "Jak dojechać",
+    "airport": "Z Lotniska Chopina w Warszawie",
+    "airportDesc": "Autobusem 175 lub pociągami miejskimi S2/S3 do centrum (Warszawa Centralna), przesiadka na metro linii M1 do stacji Ratusz Arsenał, a stamtąd ok. 8 min spacerem do placu Krasińskich. Przejazd z lotniska można też zamówić bezpośrednio pod pomnik.",
+    "selfDrive": "Własny samochód / przejazd",
+    "selfDriveDesc": "Najwygodniejsza opcja. Centrum Warszawy ma dobrze rozwiniętą sieć drogową. Usługi przejazdu działają w całym mieście z punktami dowozu blisko placu Krasińskich.",
+    "bus": "Z Dworca Centralnego w Warszawie",
+    "busDesc": "Z Warszawy Centralnej dojedziesz tramwajem 15, 18 lub 35 do przystanku Muranów, albo metrem linii M1 do stacji Ratusz Arsenał, a stamtąd 5–8 min spacerem do placu Krasińskich.",
+    "intercity": "Z centrum / Starego Miasta",
+    "intercityDesc": "Z Rynku Starego Miasta ok. 8 min spacerem na południowy zachód do placu Krasińskich; z Pałacu Kultury i Nauki metrem linii M1 do Ratusz Arsenał i 6 min spacerem. Plac leży między Starym Miastem a dawnym gettem, więc większość atrakcji centrum jest w zasięgu spaceru.",
+    "cycling": "Rower",
+    "cyclingDesc": "Warszawa ma dobrze rozwiniętą sieć ścieżek rowerowych. W centrum działają publiczne stacje rowerowe. Dojazd rowerem na plac Krasińskich daje elastyczność i pozwala zwiedzać okolicę we własnym tempie.",
+    "tips": "Wskazówki podróżne",
+    "tipsDesc": "Warto kupić jednodniowy bilet na komunikację miejską z nielimitowanymi przejazdami metrem, tramwajem i autobusem — idealny przy zwiedzaniu kilku atrakcji. Centrum ma czytelne oznakowanie w wielu językach."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "It is recommended to visit during off-peak, quieter hours. Enter from the main entrance of the memorial square, face the main monument's panoramic view, and circle the sculptures to observe details closely. Stroll through the commemorative plaques and historical introduction areas around the square to learn the complete history of the uprising. Standard visit takes about 40 minutes; extended historical exploration can extend to 1.5 hours.",
+    "title": "Sugerowana trasa",
+    "overview": "Najlepiej odwiedzać w godzinach poza szczytem, gdy jest spokojniej. Wejdź głównym wejściem na plac pamięci, zwróć się twarzą do panoramy pomnika i obejdź rzeźby, by oglądać detale z bliska. Przespaceruj się wzdłuż tablic i plansz historycznych wokół placu, by poznać pełną historię powstania. Standardowa wizyta zajmuje ok. 40 minut; zgłębianie historii może przedłużyć się do 1,5 godziny.",
     "steps": [
-      "Arrive at the public transport stations around the square and walk into Warsaw Uprising Memorial Square",
-      "Face the main monument complex, viewing the overall sculptural layout and commanding presence from a distance",
-      "Circle the two main sculptural groups slowly, observing the carved details and figure forms up close",
-      "Visit the commemorative plaques and historical interpretation signs around the square, learning the uprising's background and history",
-      "Stand quietly in the memorial area of the square for reflection, feeling the solemn atmosphere of the commemorative space",
-      "Photograph the monument's panoramic and detail shots while maintaining solemnity and not disturbing the mourning atmosphere",
-      "Walk along the outer perimeter path of the square, connecting to the city's main roads and nearby commercial areas",
-      "Walk to the next historical landmark and continue exploring Warsaw's urban journey"
+      "Dotrzyj do stacji komunikacji wokół placu i wejdź na Plac Pamięci Powstania Warszawskiego",
+      "Zwróć się twarzą do głównej grupy rzeźbiarskiej, oglądając całość z oddali",
+      "Powoli obejdź dwie główne grupy rzeźbiarskie, obserwując detale i formy postaci z bliska",
+      "Odwiedź tablice pamiątkowe i plansze edukacyjne wokół placu, poznając tło i historię powstania",
+      "Stań w ciszy w strefie zadumy, czując powagę tego miejsca",
+      "Zrób zdjęcia panoramy i detali, zachowując powagę i nie zakłócając atmosfery zadumy",
+      "Przejdź zewnętrzną ścieżką wokół placu, łącząc się z głównymi ulicami miasta i pobliskimi obszarami",
+      "Udaj się do kolejnego zabytku i kontynuuj poznawanie Warszawy"
     ],
     "supplements": [
-      "The memorial square has hard stone paving throughout—wear comfortable shoes for walking",
-      "The atmosphere is solemn; maintain quiet and soft footsteps, no loud talking or horseplay",
-      "Do not climb the sculptures under any circumstances",
-      "There are no commercial facilities in the square—prepare water in advance",
-      "Rain and snow can make surfaces slippery; walk carefully and pay attention to safety"
+      "Plac pamięci ma w całości twardy bruk — noś wygodne buty",
+      "Zachowaj ciszę i ciche kroki, bez głośnych rozmów i zabawy",
+      "Pod żadnym pozorem nie wspinaj się na rzeźby",
+      "Na placu nie ma obiektów komercyjnych — weź wcześniej wodę",
+      "Deszcz i śnieg mogą uczynić nawierzchnię śliską; chodź ostrożnie"
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Miejsca na zdjęcia",
     "spots": [
       {
-        "name": "Central Square - Monument Panorama",
-        "desc": "Eye-level shot capturing the monument's complete panoramic view with solemn, symmetrical composition"
+        "name": "Plac centralny — panorama pomnika",
+        "desc": "Zdjęcie na wysokości wzroku, obejmujące pełną panoramę z dostojną, symetryczną kompozycją"
       },
       {
-        "name": "Sculpture Side - Low Angle Details",
-        "desc": "Low-angle shots of figure sculpture details, highlighting the heavy sense of power and gravitas"
+        "name": "Rzeźba z boku — detale z niskiej perspektywy",
+        "desc": "Ujęcia detali postaci z niskiej perspektywy, podkreślające ciężar i powagę"
       },
       {
-        "name": "Distant Square Path - Urban Background",
-        "desc": "Capture the landmark integrated with the cityscape using urban buildings as backdrop"
+        "name": "Dalsza ścieżka — tło miejskie",
+        "desc": "Pomnik wkomponowany w panoramę miasta z budynkami w tle"
       },
       {
-        "name": "Commemorative Plaque Area",
-        "desc": "Combine with text markers for historically documentary-style photographs"
+        "name": "Strefa tablic pamiątkowych",
+        "desc": "Połącz z napisami, by uzyskać zdjęcia dokumentalne"
       },
       {
-        "name": "Overcast Side Lighting",
-        "desc": "Soft, cool light on overcast days enhances the solemn atmosphere of the monument"
+        "name": "Światło pochmurnego nieba",
+        "desc": "Miękkie, chłodne światło w pochmurne dni potęguje powagę"
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "The square is open with no obstructions. Midday light can be harsh—early morning or evening provide softer lighting conditions. Drone photography is prohibited in memorial areas; please comply with local historical site regulations. Maintain solemnity during photography—no exaggerated poses—and respect the historical and commemorative significance."
+    "tips": "Wskazówki fotograficzne",
+    "tipsContent": "Plac jest otwarty, bez przeszkód. Światło w południe bywa ostre — lepsze jest wczesne rano lub wieczór. Lotnie (drony) są zakazane nad miejscami pamięci; przestrzegaj lokalnych przepisów. Zachowaj powagę podczas fotografowania — bez przesadnych poz — i szanuj historyczne znaczenie."
   },
   "hotels": {
-    "title": "Accommodation",
+    "title": "Noclegi",
     "hotels": [
       {
-        "name": "Luxurious & Quiet Near Monument",
-        "desc": "Located in the prime area around the monument with convenient access. Near the municipal commercial district—quiet and comfortable",
-        "price": "Price varies by season"
+        "name": "Luksusowo i cisza przy pomniku",
+        "desc": "W okolicy pomnika, z wygodnym dojazdem. Blisko miejskiej dzielnicy handlowej — cicho i wygodnie",
+        "price": "Ceny zależą od sezonu"
       },
       {
-        "name": "Modern Downtown Residence",
-        "desc": "Close to city main roads with comprehensive transportation. Short distance to major historical attractions",
-        "price": "Price varies by season"
+        "name": "Nowoczesny apartament w centrum",
+        "desc": "Blisko głównych ulic, z pełną komunikacją. Krótko do najważniejszych zabytków",
+        "price": "Ceny zależą od sezonu"
       },
       {
-        "name": "Old Town Boutique Accommodation",
-        "desc": "Historic buildings within Warsaw's Old Town district. Blends historical atmosphere with convenient access",
-        "price": "Price varies by season"
+        "name": "Boutique w Starym Mieście",
+        "desc": "Zabytkowe kamienice w warszawskim Starym Mieście. Łączy klimat historyczny z wygodą",
+        "price": "Ceny zależą od sezonu"
       },
       {
-        "name": "Budget City Accommodation",
-        "desc": "Budget-friendly options near transportation hubs. Complete amenities—ideal for short stays and transit",
-        "price": "Price varies by season"
+        "name": "Budżetowy nocleg w mieście",
+        "desc": "Opcje ekonomiczne przy węzłach komunikacyjnych. Pełne udogodnienia — idealne na krótki pobyt",
+        "price": "Ceny zależą od sezonu"
       }
     ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Warsaw's city center is safe and secure for daytime touring. Accommodation prices rise during peak travel seasons and major commemorative holidays—early booking is recommended. Prioritize staying between the city center and Old Town for efficient access to the monument, Old Town, and Barbican historical sites."
+    "supplements": "Wskazówki noclegowe",
+    "supplementsContent": "Centrum Warszawy jest bezpieczne do zwiedzania w ciągu dnia. Ceny rosną w sezonie i przy ważnych rocznicach — warto rezerwować wcześniej. Najlepiej nocować między centrum a Starym Miastem, by szybko dotrzeć do pomnika, Starego Miasta i Barbakanu."
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "Warsaw Uprising Monument Memorial Square & Sculptures",
+    "title": "Galeria zdjęć",
+    "subtitle": "Plac Pamięci i rzeźby Pomnika Powstania Warszawskiego",
     "captions": [
-      "Warsaw Uprising Monument Panorama",
-      "Heroic Resistance Sculptures",
-      "Survival in Ruins Group",
-      "Memorial Square Overview",
-      "Sculpture Details",
-      "Evening Atmosphere",
-      "Historical Commemorative Area",
-      "Warsaw Skyline Background",
-      "Warsaw Uprising Monument Panorama",
-      "Heroic Resistance Sculptures",
-      "Survival in Ruins Group",
-      "Memorial Square Overview",
-      "Sculpture Details",
-      "Evening Atmosphere"
+      "Panorama Pomnika Powstania Warszawskiego",
+      "Rzeźby bohaterskiego oporu",
+      "Grupa „Przetrwanie w ruinach”",
+      "Widok na plac pamięci",
+      "Detale rzeźby",
+      "Wieczorna atmosfera",
+      "Strefa historyczna",
+      "Panorama Warszawy w tle",
+      "Panorama Pomnika Powstania Warszawskiego",
+      "Rzeźby bohaterskiego oporu",
+      "Grupa „Przetrwanie w ruinach”",
+      "Widok na plac pamięci",
+      "Detale rzeźby",
+      "Wieczorna atmosfera"
     ],
-    "viewAll": "View more photos on Google Maps",
+    "viewAll": "Zobacz więcej zdjęć na Google Maps",
     "showAllPhotos": "Pokaż wszystkie zdjęcia",
     "hidePhotos": "Pokaż mniej"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
+    "title": "Opinie odwiedzających",
+    "declaration": "Opinie można przeglądać przez Google Maps (link zewnętrzny).",
+    "moreReviews": "Zobacz więcej opinii na Google Maps",
     "items": [
       {
         "name": "James M.",
-        "date": "March 2026",
+        "date": "Marzec 2026",
         "rating": 5,
-        "text": "Absolutely profound and moving. The sculptures powerfully convey the tragedy and heroism of the Warsaw Uprising. Standing here, you truly feel the weight of history."
+        "text": "Absolutnie poruszające i wzruszające. Rzeźby potężnie oddają tragizm i bohaterstwo Powstania Warszawskiego. Stojąc tu, naprawdę czujesz ciężar historii."
       },
       {
         "name": "Anna K.",
-        "date": "February 2026",
+        "date": "Luty 2026",
         "rating": 5,
-        "text": "A must-visit for anyone interested in WWII history. The memorial is beautifully maintained and the atmosphere is deeply respectful."
+        "text": "Pozycja obowiązkowa dla każdego zainteresowanego historią II wojny światowej. Pomnik jest pięknie utrzymany, a atmosfera pełna głębokiego szacunku."
       },
       {
         "name": "David L.",
-        "date": "January 2026",
+        "date": "Styczeń 2026",
         "rating": 5,
-        "text": "The realism of the sculptures is incredibly impactful. Every detail tells a story of sacrifice and resistance. Highly recommend visiting at sunset."
+        "text": "Realizm rzeźb jest niesamowicie sugestywny. Każdy detal opowiada historię poświęcenia i oporu. Gorąco polecam odwiedzić o zachodzie słońca."
       },
       {
         "name": "Sarah W.",
-        "date": "December 2025",
+        "date": "Grudzień 2025",
         "rating": 5,
-        "text": "A powerful reminder of Warsaw's resilience. The monument stands as a testament to the city's spirit. The surrounding area is perfect for reflection."
+        "text": "Mocne przypomnienie o niezłomności Warszawy. Pomnik jest świadectwem ducha miasta. Okolica idealna do zadumy."
       },
       {
         "name": "Michael B.",
-        "date": "May 2026",
+        "date": "Maj 2026",
         "rating": 5,
-        "text": "A very spectacular monument located in the city center. It's an important place to understand Polish history, highly recommended!"
+        "text": "Bardzo okazały pomnik w centrum miasta. Ważne miejsce, by zrozumieć historię Polski — gorąco polecam!"
       },
       {
         "name": "John D.",
-        "date": "April 2026",
+        "date": "Kwiecień 2026",
         "rating": 5,
-        "text": "Breathtaking and the sculptures are very detailed. Every time I visit, I can feel that indomitable spirit."
+        "text": "Zapierający dech i niezwykle dopracowany w szczegółach. Za każdym razem czuję ten niezłomny duch."
       },
       {
         "name": "Emma W.",
-        "date": "April 2026",
+        "date": "Kwiecień 2026",
         "rating": 5,
-        "text": "One of the must-visit attractions in Warsaw! The surroundings are quiet, and it looks even more solemn at night under the lights."
+        "text": "Jedna z obowiązkowych atrakcji Warszawy! Wokół panuje cisza, a w świetle lamp wygląda jeszcze dostojniej."
       },
       {
         "name": "Sophia L.",
-        "date": "March 2026",
+        "date": "Marzec 2026",
         "rating": 5,
-        "text": "A very educational place. It not only commemorates the heroes of the war but also makes you reflect on how hard-won peace is."
+        "text": "Bardzo edukacyjne miejsce. Upamiętnia nie tylko bohaterów wojny, ale też skłania do refleksji, jak cenna jest wolność."
       }
     ]
   },
   "mapSection": {
-    "title": "How to Get Here",
+    "title": "Jak dojechać",
     "subtitle": "plac Krasińskich, 00-263 Warszawa, Polska",
-    "openMaps": "View on Google Maps",
+    "openMaps": "Zobacz w Google Maps",
     "authorityText": "Aktualne informacje i regionalne dane turystyczne znajdziesz na portalu",
     "authorityLink": "Polski Oficjalny Portal Turystyczny"
   },
   "footer": {
-    "rights": "© 2026 Warsaw Uprising Monument Independent Travel Research Association · All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "© 2026 Niezależne Stowarzyszenie Badań Podróżniczych Pomnika Powstania Warszawskiego · Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Ustawienia plików cookie",
+    "officialResourcesTitle": "Powiązane zasoby i informacje",
     "officialLinks": {
       "tourism": "Polska Organizacja Turystyczna",
       "gov": "Ministerstwo Spraw Zagranicznych RP",
@@ -301,75 +302,75 @@
       "museum": "Muzeum Powstania Warszawskiego",
       "city": "Urząd m.st. Warszawy"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "disclaimer": "Ta witryna to niezależny, trzeci projekt informacji turystycznej. Nie jesteśmy powiązani z lokalnymi władzami ani żadnymi instytucjami oficjalnymi.",
     "photoCredit": "Wszystkie zdjęcia prezentowane na tej stronie pozostają własnością ich autorów i podlegają prawom autorskim."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: Kwiecień 2026",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+        "heading": "1. Gromadzenie informacji",
+        "content": "Zazwyczaj nie gromadzimy aktywnie danych osobowych użytkowników. Wszelkie informacje przekazane przez formularz kontaktowy lub e-mail są ściśle chronione."
       },
       {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+        "heading": "2. Wykorzystanie informacji",
+        "content": "Zebrane informacje służą wyłącznie do świadczenia, utrzymania i ulepszania usług oraz komunikacji z użytkownikiem. Nie sprzedajemy ani nie udostępniamy danych osobowych osobom trzecim w celach marketingowych."
       },
       {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+        "heading": "3. Pliki cookie i śledzenie",
+        "content": "Używamy plików cookie i podobnych technologii do śledzenia aktywności na stronie i przechowywania niektórych informacji. Możesz instruować przeglądarkę, by odrzucała wszystkie pliki cookie lub informowała o ich wysyłaniu."
       },
       {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "4. Bezpieczeństwo danych",
+        "content": "Bezpieczeństwo Twoich danych jest dla nas ważne. Stosujemy komercyjnie akceptowalne metody ochrony danych, choć żadna metoda transmisji przez internet nie jest w 100% bezpieczna."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Regulamin",
+    "lastUpdated": "Ostatnia aktualizacja: Kwiecień 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+        "heading": "1. Akceptacja warunków",
+        "content": "Korzystając z tej strony, zgadzasz się na niniejsze warunki. Jeśli nie zgadzasz się z ich częścią, nie możesz korzystać z usługi."
       },
       {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+        "heading": "2. Korzystanie z usługi",
+        "content": "Ta strona to niezależny, trzeci projekt informacji turystycznej. Informacje mają charakter wyłącznie ogólnoinformacyjny. Zobowiązujesz się do odpowiedzialnego i zgodnego z prawem korzystania z witryny."
       },
       {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "heading": "3. Własność intelektualna",
+        "content": "Cała treść strony — teksty, zdjęcia i logo — stanowi własność właściciela witryny, chyba że zaznaczono inaczej. Niewłaściwe użycie, kopiowanie lub rozpowszechnianie są zabronione."
       },
       {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+        "heading": "4. Ograniczenie odpowiedzialności",
+        "content": "Nie ponosimy odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, przypadkowe ani wynikowe szkody wynikające z użycia lub niemożności użycia strony lub zawartych w niej informacji."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "title": "Ustawienia plików cookie",
+    "description": "Zarządzaj preferencjami plików cookie.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
+      "title": "Niezbędne pliki cookie",
+      "description": "Wymagane do podstawowego działania strony.",
+      "badge": "Zawsze aktywne"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
+      "title": "Pliki analityczne",
+      "description": "Pomagają zrozumieć, jak użytkownicy korzystają ze strony."
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
+      "title": "Pliki marketingowe",
+      "description": "Używane do śledzenia użytkowników między witrynami."
     },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "save": "Zapisz preferencje",
+    "saved": "Preferencje zapisane!"
   },
   "officialManagement": {
-    "title": "About Warsaw Uprising Monument",
-    "text": "The Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) is managed and maintained by the Warsaw City Government and the Polish National Memorial. As Poland's most significant WWII memorial landmark, the monument commemorates the heroic resistance of the Polish people during the 1944 Warsaw Uprising.\n\nThe monument stands as a powerful symbol of Polish national spirit and serves as an important site for patriotic education, historical research, and solemn commemoration. Each year on the anniversary of the uprising, national ceremonies are held here, attended by government officials, veterans, and citizens. The memorial is open to the public free of charge and welcomes visitors from around the world to learn about this important chapter of history."
+    "title": "O Pomniku Powstania Warszawskiego",
+    "text": "Pomnik Powstania Warszawskiego jest zarządzany i utrzymywany przez władze miasta Warszawy oraz polskie narodowe instytucje pamięci. Jako najważniejszy w Polsce pomnik II wojny światowej upamiętnia bohaterski opór Polaków podczas Powstania Warszawskiego 1944 roku.\n\nPomnik jest potężnym symbolem polskiego ducha narodowego i ważnym miejscem edukacji patriotycznej, badań historycznych oraz uroczystego upamiętniania. Co roku w rocznicę powstania odbywają się tu uroczystości państwowe z udziałem władz, weteranów i mieszkańców. Plenerowy pomnik jest bezpłatny i otwarty dla zwiedzających z całego świata, by poznawali ten ważny rozdział historii."
   },
   "nearby": {
     "title": "Co zobaczyć w pobliżu Pomnika Powstania Warszawskiego",
@@ -420,41 +421,41 @@
       {
         "icon": "toilet",
         "title": "Toalety publiczne",
-        "desc": "Na placu pamięci nie ma publicznych toalet. Najbliższe znajdują się w okolicy Rynku Starego Miasta oraz w miejskich obiektach centrum, około 8\u201310 minut pieszo. Skorzystaj z toalet w węzłach przesiadkowych lub centrach handlowych przed przyjazdem.",
-        "hint": "W pobliżu \u00b7 8\u201310 min pieszo"
+        "desc": "Na placu pamięci nie ma publicznych toalet. Najbliższe znajdują się w okolicy Rynku Starego Miasta oraz w miejskich obiektach centrum, około 8–10 minut pieszo. Skorzystaj z toalet w węzłach przesiadkowych lub centrach handlowych przed przyjazdem.",
+        "hint": "W pobliżu · 8–10 min pieszo"
       },
       {
         "icon": "parking",
         "title": "Parking",
-        "desc": "plac Krasi\u0144skich leży w strefie płatnego parkowania \u2014 miejsca przy ulicach są ograniczone i czasowe. W centrum działają też parkingi wielopoziomowe. Do placu najłatwiej dojechać komunikacją miejską.",
+        "desc": "plac Krasińskich leży w strefie płatnego parkowania — miejsca przy ulicach są ograniczone i czasowe. W centrum działają też parkingi wielopoziomowe. Do placu najłatwiej dojechać komunikacją miejską.",
         "hint": "Strefa płatna"
       },
       {
         "icon": "food",
         "title": "Gastronomia i kawiarnie",
-        "desc": "Na placu pamięci nie ma restauracji ani kiosków. W promieniu 5\u201315 minut spaceru Stare Miasto i centrum oferują szeroki wybór kawiarni, restauracji, bistro i barów szybkiej obsługi w każdej cenie.",
-        "hint": "5\u201315 min pieszo"
+        "desc": "Na placu pamięci nie ma restauracji ani kiosków. W promieniu 5–15 minut spaceru Stare Miasto i centrum oferują szeroki wybór kawiarni, restauracji, bistro i barów szybkiej obsługi w każdej cenie.",
+        "hint": "5–15 min pieszo"
       },
       {
         "icon": "bed",
         "title": "Hotele i noclegi",
-        "desc": "Zakwaterowanie w centrum Warszawy i na Starym Mieście obejmuje hostele, hotele budżetowe oraz hotele wyższej kategorii. Najbliższe otoczenie placu to głównie biurowce i budynki publiczne, więc większość hoteli jest 10\u201320 minut pieszo. Zobacz sekcję Noclegi.",
+        "desc": "Zakwaterowanie w centrum Warszawy i na Starym Mieście obejmuje hostele, hotele budżetowe oraz hotele wyższej kategorii. Najbliższe otoczenie placu to głównie biurowce i budynki publiczne, więc większość hoteli jest 10–20 minut pieszo. Zobacz sekcję Noclegi.",
         "hint": "Zobacz sekcję Noclegi"
       },
       {
         "icon": "shop",
         "title": "Sklepy spożywcze i convenience",
-        "desc": "Sklepy convenience i supermarkety są powszechne w centrum Warszawy, wiele działa do późna. Najbliższe ulice handlowe prowadzą w stronę Starego Miasta i Nowego \u015awiatu, około 10 minut pieszo.",
+        "desc": "Sklepy convenience i supermarkety są powszechne w centrum Warszawy, wiele działa do późna. Najbliższe ulice handlowe prowadzą w stronę Starego Miasta i Nowego Światu, około 10 minut pieszo.",
         "hint": "W pobliżu"
       },
       {
         "icon": "fuel",
         "title": "Stacje paliw i ładowarki EV",
-        "desc": "Stacje benzynowe w ścisłym centrum są rzadkie, a publiczne ładowarki wokół placu Krasi\u0144skich wciąż nieliczne. Jeśli jedziesz samochodem, zatankuj lub naładuj przed wjazdem do centrum i kieruj się lokalnymi znakami parkingowymi.",
+        "desc": "Stacje benzynowe w ścisłym centrum są rzadkie, a publiczne ładowarki wokół placu Krasińskich wciąż nieliczne. Jeśli jedziesz samochodem, zatankuj lub naładuj przed wjazdem do centrum i kieruj się lokalnymi znakami parkingowymi.",
         "hint": "Zaplanuj wcześniej"
       }
     ],
-    "note": "Jako niekomercyjna strona edukacyjna nie rekomendujemy konkretnych firm \u2014 powyższa lista obejmuje typy udogodnień, które zwykle znajdują się w pobliżu."
+    "note": "Jako niekomercyjna strona edukacyjna nie rekomendujemy konkretnych firm — powyższa lista obejmuje typy udogodnień, które zwykle znajdują się w pobliżu."
   },
   "stories": {
     "title": "Historia, opowieści i tradycje",
@@ -468,79 +469,79 @@
       {
         "kind": "documented",
         "title": "Pomnik obywatelski, budowany przez dwie dekady",
-        "text": "Pomysł upamiętnienia powstania 1944 roku krążył przez lata, ale dopiero na początku lat 80. komitet obywatelski zebrał publiczne datki i materiały. Akt erekcyjny wmurowano 31 lipca 1984 roku, w przeddzień 40. rocznicy wybuchu powstania, a w grudniu 1984 roku ogłoszono konkurs na projekt. Pomnik odsłonięto wreszcie 1 sierpnia 1989 roku \u2014 dokładnie w 45. rocznicę wybuchu powstania \u2014 jako jeden z ostatnich wielkich projektów pamięci ukończonych przed końcem rządów komunistycznych."
+        "text": "Pomysł upamiętnienia powstania 1944 roku krążył przez lata, ale dopiero na początku lat 80. komitet obywatelski zebrał publiczne datki i materiały. Akt erekcyjny wmurowano 31 lipca 1984 roku, w przeddzień 40. rocznicy wybuchu powstania, a w grudniu 1984 roku ogłoszono konkurs na projekt. Pomnik odsłonięto wreszcie 1 sierpnia 1989 roku — dokładnie w 45. rocznicę wybuchu powstania — jako jeden z ostatnich wielkich projektów pamięci ukończonych przed końcem rządów komunistycznych."
       },
       {
         "kind": "documented",
-        "title": "Rzeźbiarz Wincenty Ku\u0107ma i architekt Jacek Budyn",
-        "text": "Zwycięski projekt stworzyli rzeźbiarz Wincenty Ku\u0107ma i architekt Jacek Budyn. Ich monumentalna, narracyjna kompozycja z szarego granitu zerwała z panującą wówczas modą na abstrakcję, przywracając realistyczną, ekspresyjną rzeźbę do przestrzeni publicznej Warszawy."
+        "title": "Rzeźbiarz Wincenty Kućma i architekt Jacek Budyn",
+        "text": "Zwycięski projekt stworzyli rzeźbiarz Wincenty Kućma i architekt Jacek Budyn. Ich monumentalna, narracyjna kompozycja z szarego granitu zerwała z panującą wówczas modą na abstrakcję, przywracając realistyczną, ekspresyjną rzeźbę do przestrzeni publicznej Warszawy."
       },
       {
         "kind": "memory",
         "title": "Kanały: najbardziej przejmujący motyw pomnika",
-        "text": "Jedna z grup rzeźbiarskich przedstawia powstańców schodzących do włazu kanałowego, inna \u2014 żołnierzy wychodzących z gruzów. Przez 63 dni powstania warszawskie kanały służyły do przenoszenia ludzi, zaopatrzenia i wiadomości między dzielnicami, a w ostatnich tygodniach \u2014 do ewakuacji powstańców ze Starego Miasta. Motyw ten stał się jednym z najpotężniejszych symboli powstania warszawskiego."
+        "text": "Jedna z grup rzeźbiarskich przedstawia powstańców schodzących do włazu kanałowego, inna — żołnierzy wychodzących z gruzów. Przez 63 dni powstania warszawskie kanały służyły do przenoszenia ludzi, zaopatrzenia i wiadomości między dzielnicami, a w ostatnich tygodniach — do ewakuacji powstańców ze Starego Miasta. Motyw ten stał się jednym z najpotężniejszych symboli powstania warszawskiego."
       },
       {
         "kind": "memory",
         "title": "Mur ruin",
-        "text": "Pomnik zbudowano wokół połamanych murów i kruszącego się muru ceglanego. Po powstaniu i następującej po nim systematycznej destrukcji w ruinie legła około 85% Warszawy. Pęknięty mur pomnika symbolizuje zniszczone miasto \u2014 oraz opór, który się z niego podniósł."
+        "text": "Pomnik zbudowano wokół połamanych murów i kruszącego się muru ceglanego. Po powstaniu i następującej po nim systematycznej destrukcji w ruinie legła około 85% Warszawy. Pęknięty mur pomnika symbolizuje zniszczone miasto — oraz opór, który się z niego podniósł."
       },
       {
         "kind": "tradition",
-        "title": "Godzina W \u2014 miasto staje",
-        "text": "Powstanie wybuchło 1 sierpnia 1944 roku o godzinie 17.00 \u2014 w tzw. Godzinę W. Co roku 1 sierpnia o 17.00 w całym mieście rozlegają się syreny, a Warszawa zatrzymuje się na minutę ciszy. Przy pomniku składane są wieńce i odbywają się uroczystości państwowe z udziałem weteranów, władz i tłumów mieszkańców."
+        "title": "Godzina W — miasto staje",
+        "text": "Powstanie wybuchło 1 sierpnia 1944 roku o godzinie 17.00 — w tzw. Godzinę W. Co roku 1 sierpnia o 17.00 w całym mieście rozlegają się syreny, a Warszawa zatrzymuje się na minutę ciszy. Przy pomniku składane są wieńce i odbywają się uroczystości państwowe z udziałem weteranów, władz i tłumów mieszkańców."
       },
       {
         "kind": "documented",
         "title": "Plac, który był polem bitwy",
-        "text": "plac Krasi\u0144skich nie był cichym tłem: podczas powstania Pa\u0142ac Krasi\u0144skich na północnym skraju placu zajęły wojska niemieckie i uczyniły z niego punkt oporu, a w okolicy toczyły się ciężkie walki o jego odbicie. Wzniesienie tu narodowego pomnika \u2014 na skraju Starego Miasta i na samym polu bitwy \u2014 by\u0142o świadomym aktem pamięci."
+        "text": "plac Krasińskich nie był cichym tłem: podczas powstania Pałac Krasińskich na północnym skraju placu zajęły wojska niemieckie i uczyniły z niego punkt oporu, a w okolicy toczyły się ciężkie walki o jego odbicie. Wzniesienie tu narodowego pomnika — na skraju Starego Miasta i na samym polu bitwy — było świadomym aktem pamięci."
       }
     ]
   },
   "faq": {
-    "title": "Cz\u0119sto zadawane pytania",
-    "subtitle": "Praktyczne odpowiedzi u\u0142atwiaj\u0105ce planowanie wizyty.",
+    "title": "Często zadawane pytania",
+    "subtitle": "Praktyczne odpowiedzi ułatwiające planowanie wizyty.",
     "items": [
       {
-        "q": "Czy Pomnik Powstania Warszawskiego jest bezp\u0142atny?",
-        "a": "Tak. Pomnik to plenerowy obiekt pami\u0119ci na terenie publicznym \u2014 wst\u0119p jest wolny i mo\u017cna go zwiedza\u0107 przez ca\u0142\u0105 dob\u0119, ka\u017cdego dnia roku."
+        "q": "Czy Pomnik Powstania Warszawskiego jest bezpłatny?",
+        "a": "Tak. Pomnik to plenerowy obiekt pamięci na terenie publicznym — wstęp jest wolny i można go zwiedzać przez całą dobę, każdego dnia roku."
       },
       {
-        "q": "Jakie s\u0105 godziny otwarcia?",
-        "a": "Plac pami\u0119ci jest otwarty 24/7, 365 dni w roku, bez ogranicze\u0144. Coroczne uroczysto\u015bci rocznicowe odbywaj\u0105 si\u0119 1 sierpnia."
+        "q": "Jakie są godziny otwarcia?",
+        "a": "Plac pamięci jest otwarty 24/7, 365 dni w roku, bez ograniczeń. Coroczne uroczystości rocznicowe odbywają się 1 sierpnia."
       },
       {
-        "q": "Jak dosta\u0107 si\u0119 na plac Krasi\u0144skich?",
-        "a": "Metro linii M1 zatrzymuje si\u0119 na stacji Ratusz Arsena\u0142, ok. 5\u20138 minut pieszo. W pobli\u017cu s\u0105 przystanki tramwajowe i autobusowe, a Stare Miasto jest ok. 8 minut pieszo. Plac le\u017cy mi\u0119dzy Starym Miastem a dawnym gettem."
+        "q": "Jak dostać się na plac Krasińskich?",
+        "a": "Metro linii M1 zatrzymuje się na stacji Ratusz Arsenał, ok. 5–8 minut pieszo. W pobliżu są przystanki tramwajowe i autobusowe, a Stare Miasto jest ok. 8 minut pieszo. Plac leży między Starym Miastem a dawnym gettem."
       },
       {
-        "q": "Ile czasu powinienem zarezerwowa\u0107 na wizyt\u0119?",
-        "a": "Spokojna wizyta trwa oko\u0142o 40 minut \u2014 obej\u015bcie rze\u017ab i przeczytanie tablic pami\u0105tkowych. Mi\u0142o\u015bnicy historii \u0142atwo sp\u0119dz\u0105 1,5 godziny, \u0142\u0105cz\u0105c pomnik z Pa\u0142acem Krasi\u0144skich i Starym Miastem."
+        "q": "Ile czasu powinienem zarezerwować na wizytę?",
+        "a": "Spokojna wizyta trwa około 40 minut — obejście rzeźb i przeczytanie tablic pamiątkowych. Miłośnicy historii łatwo spędzą 1,5 godziny, łącząc pomnik z Pałacem Krasińskich i Starym Miastem."
       },
       {
-        "q": "Czy przy pomniku s\u0105 toalety, kawiarnie lub sklepy?",
-        "a": "Na placu pami\u0119ci nie ma obiekt\u00f3w komercyjnych. Toalety publiczne, kawiarnie i sklepy s\u0105 dost\u0119pne w promieniu 5\u201315 minut spaceru na Starym Mie\u015bcie i w centrum."
+        "q": "Czy przy pomniku są toalety, kawiarnie lub sklepy?",
+        "a": "Na placu pamięci nie ma obiektów komercyjnych. Toalety publiczne, kawiarnie i sklepy są dostępne w promieniu 5–15 minut spaceru na Starym Mieście i w centrum."
       },
       {
-        "q": "Co si\u0119 dzieje przy pomniku 1 sierpnia?",
-        "a": "Ka\u017cdego 1 sierpnia Polska upami\u0119tnia rocznic\u0119 wybuchu powstania. O 17.00 (Godzina W) w Warszawie wyj\u0105 syreny i obserwowana jest minuta ciszy. Przy pomniku odbywaj\u0105 si\u0119 oficjalne uroczysto\u015bci i sk\u0142adanie wie\u0144c\u00f3w."
+        "q": "Co się dzieje przy pomniku 1 sierpnia?",
+        "a": "Każdego 1 sierpnia Polska upamiętnia rocznicę wybuchu powstania. O 17.00 (Godzina W) w Warszawie wyją syreny i obserwowana jest minuta ciszy. Przy pomniku odbywają się oficjalne uroczystości i składanie wieńców."
       },
       {
-        "q": "Czy mog\u0119 robi\u0107 zdj\u0119cia przy pomniku?",
-        "a": "Tak, fotografowanie jest mile widziane. Prosimy o zachowanie powagi \u2014 nie wolno wspina\u0107 si\u0119 na rze\u017aby \u2014 a drony nad miejscami pami\u0119ci w Warszawie s\u0105 co do zasady zabronione."
+        "q": "Czy mogę robić zdjęcia przy pomniku?",
+        "a": "Tak, fotografowanie jest mile widziane. Prosimy o zachowanie powagi — nie wolno wspinać się na rzeźby — a drony nad miejscami pamięci w Warszawie są co do zasady zabronione."
       },
       {
-        "q": "Czy pomnik jest dost\u0119pny dla os\u00f3b na w\u00f3zkach?",
-        "a": "Tak. Pomnik stoi na otwartym, p\u0142askim placu z dost\u0119pnymi utwardzonymi \u015bcie\u017ckami; nie ma schod\u00f3w ani budynk\u00f3w do wej\u015bcia, wi\u0119c jest \u0142atwo osi\u0105galny dla os\u00f3b na w\u00f3zkach."
+        "q": "Czy pomnik jest dostępny dla osób na wózkach?",
+        "a": "Tak. Pomnik stoi na otwartym, płaskim placu z dostępnymi utwardzonymi ścieżkami; nie ma schodów ani budynków do wejścia, więc jest łatwo osiągalny dla osób na wózkach."
       }
     ]
   },
   "sources": {
-    "title": "\u0179r\u00f3d\u0142a i lektura uzupe\u0142niaj\u0105ca",
-    "subtitle": "Niezale\u017cne, niekomercyjne materia\u0142y \u017ar\u00f3d\u0142owe u\u017cyte w tym przewodniku.",
+    "title": "Źródła i lektura uzupełniająca",
+    "subtitle": "Niezależne, niekomercyjne materiały źródłowe użyte w tym przewodniku.",
     "items": [
       {
-        "name": "Wikipedia \u2014 Warsaw Uprising Monument (EN)",
+        "name": "Wikipedia — Warsaw Uprising Monument (EN)",
         "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument"
       },
       {
@@ -548,19 +549,19 @@
         "url": "https://www.1944.pl/"
       },
       {
-        "name": "Wikipedia \u2014 Pomnik Powstania Warszawskiego (PL)",
+        "name": "Wikipedia — Pomnik Powstania Warszawskiego (PL)",
         "url": "https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego"
       },
       {
-        "name": "Culture.pl \u2014 Ku\u0107ma i Budyn, Pomnik Powstania Warszawskiego",
+        "name": "Culture.pl — Kućma i Budyn, Pomnik Powstania Warszawskiego",
         "url": "https://culture.pl/pl/dzielo/wincenty-kucma-i-jacek-budyn-pomnik-powstania-warszawskiego"
       },
       {
-        "name": "Miasto Sto\u0142eczne Warszawa (oficjalna strona)",
+        "name": "Miasto Stołeczne Warszawa (oficjalna strona)",
         "url": "https://www.um.warszawa.pl/en"
       },
       {
-        "name": "Google Maps \u2014 lokalizacja placu Krasi\u0144skich",
+        "name": "Google Maps — lokalizacja placu Krasińskich",
         "url": "https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
       }
     ]
@@ -590,5 +591,44 @@
       "snow": "Śnieg",
       "thunder": "Burza"
     }
+  },
+  "comparison": {
+    "title": "Pomnik, Muzeum i Powstanie w Getcie — różnice",
+    "subtitle": "Te trzy pojęcia są często mylone. To zestawienie pomaga je odróżnić.",
+    "labels": {
+      "type": "Typ",
+      "location": "Lokalizacja",
+      "commemorates": "Upamiętnia",
+      "access": "Dostęp"
+    },
+    "items": [
+      {
+        "name": "Pomnik Powstania Warszawskiego",
+        "nameLocal": "Pomnik Powstania Warszawskiego",
+        "type": "Rzeźba plenerowa / pomnik",
+        "location": "Plac Krasińskich (centrum miasta)",
+        "commemorates": "Powstanie Warszawskie 1944",
+        "access": "Wstęp wolny, otwarte 24/7",
+        "note": "Temat tej strony."
+      },
+      {
+        "name": "Muzeum Powstania Warszawskiego",
+        "nameLocal": "Muzeum Powstania Warszawskiego",
+        "type": "Muzeum historyczne w budynku",
+        "location": "Dzielnica Wola (ok. 2,6 km stąd)",
+        "commemorates": "Powstanie Warszawskie 1944 (cała historia)",
+        "access": "Płatny bilet (35/30 zł)",
+        "note": "Osobna atrakcja, nie na tym placu."
+      },
+      {
+        "name": "Powstanie w getcie warszawskim",
+        "nameLocal": "Powstanie w getcie warszawskim",
+        "type": "Wydarzenie historyczne (1943)",
+        "location": "Dawne getto (okolice Muzeum POLIN)",
+        "commemorates": "Powstanie żydowskiego getta 1943",
+        "access": "Miejsca pamięci bezpłatne",
+        "note": "Inne wydarzenie niż Powstanie Warszawskie 1944."
+      }
+    ]
   }
 }

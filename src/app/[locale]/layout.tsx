@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://warsawuprisingmonument.com';
+  const baseUrl = 'https://www.warsawuprisingmonument.com';
 
   const languages: Record<string, string> = {
     'zh': `${baseUrl}/zh`,
@@ -23,7 +23,7 @@ export async function generateMetadata({
     'pl': `${baseUrl}/pl`,
     'ru': `${baseUrl}/ru`,
     'de': `${baseUrl}/de`,
-    'x-default': `${baseUrl}/pl`,
+    'x-default': `${baseUrl}/en`,
   };
 
   const selfUrl = languages[locale] || languages['pl'];

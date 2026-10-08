@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://warsawuprisingmonument.com';
+const BASE_URL = 'https://www.warsawuprisingmonument.com';
 const LOCALES = ['zh', 'en', 'pl', 'ru', 'de'] as const;
 const PATHS = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'] as const;
 
@@ -11,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const path of PATHS) {
       const url = `${BASE_URL}/${locale}${path}`;
       const languages: Record<string, string> = {
-        'x-default': `${BASE_URL}/pl${path}`,
+        'x-default': `${BASE_URL}/en${path}`,
       };
       for (const l of LOCALES) {
         languages[l] = `${BASE_URL}/${l}${path}`;
@@ -30,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date('2026-09-01'),
     alternates: {
       languages: {
-        'x-default': `${BASE_URL}/pl`,
+        'x-default': `${BASE_URL}/en`,
         zh: `${BASE_URL}/zh`,
         en: `${BASE_URL}/en`,
         pl: `${BASE_URL}/pl`,

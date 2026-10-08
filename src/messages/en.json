@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Warsaw Uprising Monument: Visitor Guide, History & Map",
-    "description": "Plan your visit to the Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) at Plac Krasińskich. Find location maps, history, and free visiting tips."
+    "title": "Warsaw Uprising Monument | History & Visitor Guide",
+    "description": "Visit the Warsaw Uprising Monument at Krasiński Square in Warsaw. Explore its 1944 history, sculpture symbolism, free access and directions."
   },
   "header": {
     "home": "Home",
@@ -16,8 +16,8 @@
   "hero": {
     "title": "Warsaw Uprising Monument (Pomnik Powstania Warszawskiego)",
     "subtitle": "1944 Warsaw Uprising Memorial · Plac Krasińskich · Free, Open 24/7",
-    "rating": "4.8(5,532)",
-    "reviewCount": "5,532 reviews",
+    "rating": "4.8",
+    "reviewCount": "5,579 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location",
     "imgAlt": "Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) - main view in Warsaw, Poland"
@@ -83,6 +83,7 @@
     "city": "City",
     "cityValue": "Warsaw",
     "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 / 5 (5,579 reviews)",
     "address": "Address",
     "addressValue": "plac Krasińskich, 00-263 Warszawa, Poland"
   },
@@ -590,5 +591,44 @@
       "snow": "Snow",
       "thunder": "Thunderstorm"
     }
+  },
+  "comparison": {
+    "title": "Monument, Museum & Ghetto Uprising — the differences",
+    "subtitle": "These three terms are often confused. This overview helps tell them apart.",
+    "labels": {
+      "type": "Type",
+      "location": "Location",
+      "commemorates": "Commemorates",
+      "access": "Access"
+    },
+    "items": [
+      {
+        "name": "Warsaw Uprising Monument",
+        "nameLocal": "Pomnik Powstania Warszawskiego",
+        "type": "Open-air sculpture / memorial",
+        "location": "Plac Krasińskich (city centre)",
+        "commemorates": "Warsaw Uprising 1944",
+        "access": "Free, open 24/7",
+        "note": "Focus of this website."
+      },
+      {
+        "name": "Warsaw Uprising Museum",
+        "nameLocal": "Muzeum Powstania Warszawskiego",
+        "type": "Indoor history museum",
+        "location": "Wola district (about 2.6 km away)",
+        "commemorates": "Warsaw Uprising 1944 (full history)",
+        "access": "Paid ticket (35/30 zł)",
+        "note": "Separate attraction, not on this square."
+      },
+      {
+        "name": "Warsaw Ghetto Uprising",
+        "nameLocal": "Powstanie w getcie warszawskim",
+        "type": "Historical event (1943)",
+        "location": "Former ghetto (POLIN Museum area)",
+        "commemorates": "Jewish ghetto uprising 1943",
+        "access": "Memorial sites free",
+        "note": "Different event from the 1944 Warsaw Uprising."
+      }
+    ]
   }
 }

@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://warsawuprisingmonument.com/sitemap.xml',
+    sitemap: 'https://www.warsawuprisingmonument.com/sitemap.xml',
   };
 }

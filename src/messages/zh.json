@@ -16,8 +16,8 @@
   "hero": {
     "title": "华沙起义纪念碑",
     "subtitle": "纪念1944年华沙起义 · 克拉辛斯基广场 · 免费开放 24/7",
-    "rating": "4.8(5,532)",
-    "reviewCount": "5,532 条评价",
+    "rating": "4.8",
+    "reviewCount": "5,579 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置",
     "imgAlt": "华沙起义纪念碑（Pomnik Powstania Warszawskiego）——位于波兰华沙的主视图"
@@ -83,6 +83,7 @@
     "city": "城市",
     "cityValue": "华沙",
     "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 / 5（5,579 条评价）",
     "address": "地址",
     "addressValue": "plac Krasińskich（克拉辛斯基广场）, 00-263 Warszawa, 波兰"
   },
@@ -590,5 +591,44 @@
       "snow": "雪",
       "thunder": "雷暴"
     }
+  },
+  "comparison": {
+    "title": "纪念碑、博物馆与隔都起义——三者区别",
+    "subtitle": "这三个概念常被混淆，下面的对照表帮你厘清。",
+    "labels": {
+      "type": "类型",
+      "location": "位置",
+      "commemorates": "纪念对象",
+      "access": "参观方式"
+    },
+    "items": [
+      {
+        "name": "华沙起义纪念碑",
+        "nameLocal": "Pomnik Powstania Warszawskiego",
+        "type": "露天雕塑/纪念碑",
+        "location": "克拉辛斯基广场（市中心）",
+        "commemorates": "1944年华沙起义",
+        "access": "免费，全天24小时开放",
+        "note": "本站核心内容。"
+      },
+      {
+        "name": "华沙起义博物馆",
+        "nameLocal": "Muzeum Powstania Warszawskiego",
+        "type": "室内历史博物馆",
+        "location": "沃拉区（约2.6公里外）",
+        "commemorates": "1944年华沙起义（完整历史）",
+        "access": "收费门票（35/30兹罗提）",
+        "note": "独立景点，不在此广场。"
+      },
+      {
+        "name": "华沙隔都起义",
+        "nameLocal": "Powstanie w getcie warszawskim",
+        "type": "历史事件（1943年）",
+        "location": "前犹太区（POLIN博物馆一带）",
+        "commemorates": "1943年犹太人隔都起义",
+        "access": "纪念场所免费",
+        "note": "与1944年华沙起义是不同的事件。"
+      }
+    ]
   }
 }

@@ -17,6 +17,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import NearbySection from '@/components/NearbySection';
+import ComparisonSection from '@/components/ComparisonSection';
 import MapEmbed from '@/components/MapEmbed';
 import SourcesSection from '@/components/SourcesSection';
 import Footer from '@/components/Footer';
@@ -68,6 +69,7 @@ export default async function HomePage({
         <Reviews />
         <FAQSection />
         <NearbySection />
+        <ComparisonSection />
         <MapEmbed />
         <SourcesSection />
       </main>
